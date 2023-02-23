@@ -12,9 +12,15 @@ The next part of this study is extracting wheather data from https://data-class-
 
 ![Mars_Whether_Website](Resources/Wheather_data_website.PNG)
 
-The next part of the study is examining the data, transforming it to usable data and extracting the needed information from the data.
+The next part of the study is examining the data, transforming it to usable data and extracting the needed information from the data. The extracted and cleaned data is stored in a datafram for further analysis.
+
+![Pandas_data_frame](Resources/pandas_imported_data.PNG)
 
 ## Results
 
 
+![Mars_Whether_Website](Resources/temp_by_month.PNG)
 
+![Mars_Whether_Website](Resources/pressure_by_month.PNG)
+
+![Mars_Whether_Website](Resources/temp_by_Earth_day.PNG)

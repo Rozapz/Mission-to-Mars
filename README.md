@@ -16,6 +16,15 @@ The next part of the study is examining the data, transforming it to usable data
 
 ![Pandas_data_frame](Resources/pandas_imported_data.PNG)
 
+Here are the information that each column presents: 
+  - id: the identification number of a single transmission from the Curiosity rover
+  - terrestrial_date: the date on Earth
+  - sol: the number of elapsed sols (Martian days) since Curiosity landed on Mars
+  - ls: the solar longitude
+  - month: the Martian month
+  - min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)
+  - pressure: The atmospheric pressure at Curiosity's location
+
 ## Results
 
 

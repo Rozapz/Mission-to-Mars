@@ -1,8 +1,8 @@
 # Mission to Mars
-The aim of this study is to scrape data from the NASA website to study the planet Mars Weather and News. For this purpose, a python code is written to extract the data from the html file of the website.
+The aim of this study is to scrape data from the NASA website to study the planet Mars Weather and News. For this purpose, a Python code is written to extract the data from the HTML file of the website.
 
 ## Overview of the analysis
-The first part of this study is dedicated to data scraping from NASA's website to find the planet Mars recent news. The website address is https://redplanetscience.com. Our code use automated browsing to visit and look for the titles and preview of the information in the HTML file of the website. These results are then exported to a MongoDb database and is saved as a Json file for further studies.
+The first part of this study is dedicated to data scraping from NASA's website to find the planet Mars recent news. The website address is https://redplanetscience.com. Our code uses automated browsing to visit and look for the titles and preview of the information in the HTML file of the website. These results are then exported to a MongoDB database and are saved as a JSON file for further studies.
 
 ![Mars_News_Website](Resources/articles_website.PNG)
 

@@ -7,12 +7,12 @@ The first part of this study is dedicated to data scraping from NASA's website t
 ![Mars_News_Website](Resources/articles_website.PNG)
 
 
-The next part of this study is extracting wheather data from https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html. Similarly, automated browsing is used to access the website and scrape the data from the table that is provided in the website.
+The next part of this study is extracting weather data from https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html. Similarly, automated browsing is used to access the website and scrape the data from the table that is provided on the website.
 
 
 ![Mars_Whether_Website](Resources/Wheather_data_website.PNG)
 
-The next part of the study is examining the data, transforming it to usable data and extracting the needed information from the data. The extracted and cleaned data is stored in a datafram for further analysis.
+The next part of the study is examining the data, transforming it into usable data, and extracting the needed information from the data. The extracted and cleaned data is stored in a data frame for further analysis.
 
 ![Pandas_data_frame](Resources/pandas_imported_data.PNG)
 
